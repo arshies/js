@@ -16,12 +16,12 @@ let score = 123
 // console.log(typeof strin_to_number);
 
 
-score = "87abc"
-console.log(score);
-console.log(typeof score);
-strin_to_number = Number(score)
-console.log(strin_to_number);
-console.log(typeof strin_to_number);
+// score = "87abc"
+// console.log(score);
+// console.log(typeof score);
+// strin_to_number = Number(score)
+// console.log(strin_to_number);
+// console.log(typeof strin_to_number);
 
 
 /* chai aur code */
